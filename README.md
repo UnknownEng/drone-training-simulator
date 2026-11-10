@@ -8,7 +8,7 @@ Offline PC simulator for multirotor pilot training. Each drone flies with its ow
 
 ## Download
 
-**[Download for Windows (64-bit)](https://github.com/UnknownEng/drone-training-simulator/releases/latest/download/DroneTrainingSimulator-win32-x64.zip)**: a zip with the ready-to-run app. No installation, works fully offline.
+**[Download for Windows (64-bit)](https://github.com/UnknownEng/drone-training-simulator/releases/latest)**: open the latest release and download the `.zip` under **Assets**. No installation, works fully offline.
 
 1. Download the zip and extract it (right-click → **Extract All**).
 2. Open the extracted folder and run **DroneTrainingSimulator.exe**.
