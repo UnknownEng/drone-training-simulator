@@ -16,8 +16,6 @@ Offline PC simulator for multirotor pilot training. Each drone flies with its ow
 
 **Requirements:** Windows 10 or 11 (64-bit), a graphics card with DirectX 11 / WebGL 2, about 300 MB of disk space. A gamepad or an RC transmitter in USB joystick mode is optional; the keyboard works too.
 
-The demo video is attached to the [latest release](https://github.com/UnknownEng/drone-training-simulator/releases/latest).
-
 ## Features
 
 - **Flight physics:** 6-DOF model with motor spin-up lag, thrust curves, battery voltage sag, ground effect, vortex-ring state, rotor drag, and wind with gusts and turbulence. Landing-gear contact and collisions with trees, buildings and wires.
