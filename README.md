@@ -18,6 +18,16 @@ Offline PC simulator for multirotor pilot training. Each drone flies with its ow
 
 The full user manual opens from **User manual** in the app's main menu.
 
+## Activation (demo key required)
+
+This is an **evaluation build**. On first launch it shows an activation screen with a short **Machine ID** — the app will not run until it is activated with a license key.
+
+1. Open the app and copy your **Machine ID** (there's a Copy button).
+2. Request a key — [**open an issue**](https://github.com/UnknownEng/drone-training-simulator/issues/new?title=Demo%20key%20request&body=Machine%20ID:%20) and paste your Machine ID (or contact AeroMaverick Technologies).
+3. Paste the key you receive into the activation screen and click **Activate**.
+
+A demo key is valid for **2 days from activation** and is tied to the one computer it was issued for. Please don't share the app or your key. See `EVALUATION-NOTICE.txt` in the download for the full terms.
+
 ## Features
 
 - **Real ArduPilot firmware, built in:** **Flight controller → Start ArduPilot** runs the official ArduCopter firmware as the flight controller, with the drone's own parameter file. No Linux or WSL is needed. Mission Planner or QGroundControl can watch the flight at TCP `127.0.0.1:5762`.
